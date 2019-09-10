@@ -4,8 +4,8 @@
 
 ## Current design
 
-<img align="left" src="images/current.png">
-<img align="right" src="gifs/demo.gif">
+![Image of current elevator interface design](images/current.png)
+![GIF of current elevator interface design](gifs/demo.gif)
 
 Issues with the current design:
 
