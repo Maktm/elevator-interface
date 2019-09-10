@@ -3,11 +3,14 @@
 ## Introduction
 
 ## Current design
-### Image
-![Image of current elevator interface design](images/current.png)
 
-### GIF
-![GIF of current elevator interface design](gifs/demo.gif)
+<img align="left" src="images/current.png">
+<img align="right" src="gifs/demo.gif">
+
+Issues with the current design:
+
+* Difficult to tell the differences between S1, S2, ..., S5
+* Difficult to determine which floor a book is on
 
 ## Redesign
 
