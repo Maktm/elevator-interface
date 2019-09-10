@@ -1,2 +1,15 @@
-# elevator-interface
-Elevator interface design for CS3366
+# Elevator interface
+
+## Introduction
+
+## Current design
+### Image
+![Image of current elevator interface design](images/current.png)
+
+### GIF
+![GIF of current elevator interface design](gifs/demo.gif)
+
+## Redesign
+
+## Credits
+Michael Kiros
