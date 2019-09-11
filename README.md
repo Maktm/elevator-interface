@@ -11,11 +11,14 @@ Issues with the current design:
 * Interface does not show that elevator is disabled in the event of a fire
 * Add feature to unselect a floor to go to (unavailable on most elevators)
 * Add activity feature at the bottom to show how busy the library is
+* Doesn't include enough information about the floors
 
 ![Image of current elevator interface design](images/current.png)
 ![GIF of current elevator interface design](gifs/demo.gif)
 
 ## Redesign
+
+![GIF of redesign](gifs/redesign-demo.gif)
 
 ## Credits
 Michael Kiros
