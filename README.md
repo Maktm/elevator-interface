@@ -39,7 +39,7 @@ The current interface is not good because:
   * No emergency button, only one for calling in for assistance
   * No option to deselect a floor so you cannot undo a mistake
 
-![Image of prototype](images/sketch.jpg)
+![Image of prototype](images/sketch.png)
 
 ## Redesign
 
