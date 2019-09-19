@@ -21,11 +21,11 @@ The current interface is not good because:
   * Open/close the door of the elevator (Easy)
   
 * Common sequence of actions:
-  1) Figure out which floor you need to go to
-  2) Find the button that will take you to that floor
-  3) Press the button
-  4) Hold the open/close button
-  5) Wait until your floor number is shown indicating that you reached your floor
+  1. Figure out which floor you need to go to
+  2. Find the button that will take you to that floor
+  3. Press the button
+  4. Hold the open/close button
+  5. Wait until your floor number is shown indicating that you reached your floor
 
 * The elevator helps the user figure out how it works by assigning labels next to the buttons that describe the floors (but not in detail). Additionally, it provides blind people with braille so that they can use the elevator too.
 
