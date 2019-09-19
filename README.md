@@ -41,7 +41,9 @@ The current interface is not good because:
 
 ![Image of prototype](images/sketch.png)
 
-## Redesign
+## To get an A:
+
+* Size of the screen/panel should be 300mm x 950mm 20mm
 
 ![GIF of redesign](gifs/redesign-demo.gif)
 
