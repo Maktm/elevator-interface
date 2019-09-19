@@ -39,6 +39,11 @@ The current interface is not good because:
   * No emergency button, only one for calling in for assistance
   * No option to deselect a floor so you cannot undo a mistake
 
+* My prototype sketch provides the following improvements:
+  * Removes the "S" from the floor and provides you with just the number so you don't get confused
+  * Aligns all the buttons into one column so it makes sense to read it up/down (or down/up)
+  * Add aligned information about each floor so you understand it better
+
 ![Image of prototype](images/sketch.png)
 
 ## To get an A:
