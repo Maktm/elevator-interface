@@ -52,5 +52,11 @@ The current interface is not good because:
 
 ![GIF of redesign](gifs/redesign-demo.gif)
 
+* The design provides the following extra features:
+ * The ability to see if the elevator is exceeding the max weight
+ * A feature to see whether the elevator is not functioning in case of fire
+ * A search feature that converts book codes to the floor the book is on
+ * A "more information" feature that provides extra information
+
 ## Credits
 Michael Kiros
